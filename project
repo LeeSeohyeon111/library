@@ -1,2 +1,2 @@
 대출정보 <- read.csv("대출정보.txt", header = TRUE, sep = ",", fileEncoding = "CP949")
-
+도서정보 <- read.csv("단행본(도서)정보.txt", header = TRUE, sep = ",", fileEncoding = "CP949")
